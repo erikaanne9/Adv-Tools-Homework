@@ -18,6 +18,10 @@
     display: flex;
     justify-content: center;
   }
+  .app-title,
+  p {
+    text-align: center;
+  }
 }
 
 body {
