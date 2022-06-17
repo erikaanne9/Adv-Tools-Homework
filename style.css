@@ -6,17 +6,18 @@
 
 @media (max-width: 576px) {
   .big-title {
-    font-size: 60px;
+    font-size: 48px;
   }
   .medium-title {
-    font-size: 30px;
+    font-size: 32px;
   }
   .small-title {
-    font-size: 20px;
+    font-size: 24px;
   }
   .launch-buttons {
-    display: flex;
-    justify-content: center;
+    display: block;
+    margin: 0 20px;
+    text-align: center;
   }
   .app-title,
   p {
